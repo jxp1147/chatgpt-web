@@ -128,7 +128,7 @@ const sendMessage = async (searchValue: string) => {
   });
 
   const cloud = new Cloud({
-    baseUrl: 'https://xhp65i.laf.dev',
+    baseUrl: 'https://xhp65i.laf.dev',  
     getAccessToken: () => '',
     timeout: 180000,
   });

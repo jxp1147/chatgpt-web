@@ -9,11 +9,11 @@ import Home from './pages/Home/index.vue';
       ><i class="iconfont icon-github"></i
     ></a> -->
   </header>
-  <Home /> 
+  <Home />    
 </template>
 
 <style lang="less" scoped>
-header {
+header {    
   height: 48px;
   padding: 8px 16px;
   display: flex;
