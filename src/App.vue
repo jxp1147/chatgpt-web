@@ -5,11 +5,11 @@ import Home from './pages/Home/index.vue';
 <template>
   <header>
     <h1>chatgpt</h1>
-    <a href="https://github.com/LsyWeb/chatgpt-web" target="_blank"
+    <!-- <a href="https://github.com/LsyWeb/chatgpt-web" target="_blank"
       ><i class="iconfont icon-github"></i
-    ></a>
+    ></a> -->
   </header>
-  <Home />
+  <Home /> 
 </template>
 
 <style lang="less" scoped>
